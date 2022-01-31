@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
-import 'package:project/data/remote/AppException.dart';
-import 'package:project/data/remote/network/BaseApiService.dart';
+import 'package:ssl_flutter/data/remote/AppException.dart';
+import 'package:ssl_flutter/data/remote/network/BaseApiService.dart';
 
 class NetworkApiService extends BaseApiService {
 

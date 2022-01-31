@@ -1,4 +1,4 @@
-import 'package:project/data/remote/response/Status.dart';
+import 'package:ssl_flutter/data/remote/response/Status.dart';
 
 class ApiResponse<T> {
 
